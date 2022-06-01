@@ -1,0 +1,5 @@
+*{ margin:0; padding:0;}
+ 
+#table1{ text-align:center; background-color:#fff; height:550px; width:430px;     }
+.fejlec_table{ font-size:11px; color:#CC0000;}
+.tabla td{  color:#000000; font-weight:bolder; font-size:11px;border:1px solid #000000;  }
